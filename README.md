@@ -47,7 +47,7 @@ There are three possible languages/frameworks students can use in order to achie
 
 
 
-Videos taken show last release's content accepted by EPITECH  
+### Videos taken show last release's content accepted by EPITECH  
 
 ## Documentation
 

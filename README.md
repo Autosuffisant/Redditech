@@ -38,7 +38,14 @@ There are three possible languages/frameworks students can use in order to achie
 - The project must be developed in C#
 - The project must be built using a Visual Studio 2019 solution
 
+
+## Documentation
+
+A short documentation can be found [here](https://github.com/Autosuffisant/Redditech/blob/main/Documentation%20Redditech.pdf), followed by a class diagram [here](https://github.com/Autosuffisant/Redditech/blob/main/Class%20diagram.pdf)
+
 ## Demonstration
+
+### Videos taken show last release's content accepted by EPITECH  
 
 <img align="left" src="https://github.com/Autosuffisant/Redditech/blob/main/demo/Login.gif"       width="220" />
 <img align="left" src="https://github.com/Autosuffisant/Redditech/blob/main/demo/Home.gif"        width="220" />
@@ -46,9 +53,3 @@ There are three possible languages/frameworks students can use in order to achie
 
 <img align="left" src="https://github.com/Autosuffisant/Redditech/blob/main/demo/Subreddit.gif"   width="220" />
 <img align="left" src="https://github.com/Autosuffisant/Redditech/blob/main/demo/Profile.gif"     width="220" />
-
-### Videos taken show last release's content accepted by EPITECH  
-
-## Documentation
-
-A short documentation can be found [here](https://github.com/Autosuffisant/Redditech/blob/main/Documentation%20Redditech.pdf), followed by a class diagram [here](https://github.com/Autosuffisant/Redditech/blob/main/Class%20diagram.pdf)

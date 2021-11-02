@@ -25,7 +25,7 @@ There are three possible languages/frameworks students can use in order to achie
 
 <img align="left" alt="C" width="36px" src="https://github.com/Autosuffisant/Autosuffisant/blob/master/assets/react-native-logo.png?raw=true" />
 
-#### React Native
+#### React Native - The one we chose
 
 - The project must be, at least, able to build for Android
 

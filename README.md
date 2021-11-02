@@ -40,10 +40,10 @@ There are three possible languages/frameworks students can use in order to achie
 
 ## Demonstration
 
-<img align="left" src="https://github.com/Autosuffisant/Redditech/blob/main/demo/Login.gif"       width="300" />
-<img align="left" src="https://github.com/Autosuffisant/Redditech/blob/main/demo/Home.gif"        width="300" />
-<img align="left" src="https://github.com/Autosuffisant/Redditech/blob/main/demo/Subreddit.gif"   width="300" />
-<img align="left" src="https://github.com/Autosuffisant/Redditech/blob/main/demo/Profile.gif"     width="300" />
+<img align="left" src="https://github.com/Autosuffisant/Redditech/blob/main/demo/Login.gif"       width="220" />
+<img align="left" src="https://github.com/Autosuffisant/Redditech/blob/main/demo/Home.gif"        width="220" />
+<img align="left" src="https://github.com/Autosuffisant/Redditech/blob/main/demo/Subreddit.gif"   width="220" />
+<img align="left" src="https://github.com/Autosuffisant/Redditech/blob/main/demo/Profile.gif"     width="220" />
 
 
 
